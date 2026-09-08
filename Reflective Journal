@@ -1,1 +1,9 @@
+Xinyu's Entry:
 
+I now have a better understanding of supervised, unsupervised, and reinforcement learning. Although I knew the definitions of the three before this lab, I wasn’t always sure how to apply them to real-world problems. The examples in this lab were very helpful in understanding the differences between supervised, unsupervised, and reinforcement learning. I applied the self-driving car example to reinforcement learning, since self-driving cars learn from their actions and receive feedback to make better decisions in the future.
+
+The lab examples in this lab were also helpful in showing the basic workflow of machine learning. Understanding the data, selecting features, splitting data into training data and test data, training a model, and testing the model were the basic steps involved in building a machine learning model to solve a problem. The lab showed us how to use these steps and also showed us how to compare the results of different models on the same data. For example, the accuracy of logistic regression was higher than that of a decision tree for the Wine classification problem.
+
+I found it interesting to consider how short, AI-generated videos can be put to practical use as another application. These are not the simple learning cases that get described in class. Instead, many real applications will use more than one learning type.
+
+My struggle to assign the different types of learning to real-world problems was also very insightful for me. Now, after completing this lab, I can differentiate between the different machine learning types and complete the basic steps of building and testing a model.
