@@ -7,3 +7,7 @@ The lab examples in this lab were also helpful in showing the basic workflow of 
 I found it interesting to consider how short, AI-generated videos can be put to practical use as another application. These are not the simple learning cases that get described in class. Instead, many real applications will use more than one learning type.
 
 My struggle to assign the different types of learning to real-world problems was also very insightful for me. Now, after completing this lab, I can differentiate between the different machine learning types and complete the basic steps of building and testing a model.
+
+Elda's Entry:
+
+This lab helped me better understand the differences between supervised, unsupervised, and reinforcement learning. I learned that it is important to choose the right type of machine learning based on the data and the goal of the project. I also saw how the features you choose can affect accuracy, so comparing feature sets with cross-validation is important. The model you choose matters too because some models may perform better than others depending on the dataset being used for training.
