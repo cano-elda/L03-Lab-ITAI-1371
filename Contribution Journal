@@ -6,6 +6,6 @@ After completing my portion of the lab, I executed all of the cells, reviewed ou
 
 Elda's Contributions:
 
-I worked on Part 7 of Module 3 Lab, I used ash, flavonoids, and hue as the three features. The model reached 88.9% accuracy, the same as the original model. This shows that the new feature combination performed just as well on the test set but did not increase accuracy. I also answered the questions under the section My Understanding of Machine Learning and My Analysis of the Wine Classification Project.
+I worked on Part 7 of Module 3 Lab, I used ash, flavonoids, and hue as the three features.  The model reached 88.9% accuracy, the same as the original model. This shows that the  new feature combination performed just as well on the test set but did not increase  accuracy. I also answered the questions under the section My Understanding of Machine  Learning and My Analysis of the Wine Classification Project.
 
 
