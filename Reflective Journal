@@ -10,4 +10,8 @@ My struggle to assign the different types of learning to real-world problems was
 
 Elda's Entry:
 
-This lab helped me better understand the differences between supervised, unsupervised, and reinforcement learning. I learned that it is important to choose the right type of machine learning based on the data and the goal of the project. I also saw how the features you choose can affect accuracy, so comparing feature sets with cross-validation is important. The model you choose matters too because some models may perform better than others depending on the dataset being used for training.
+This lab helped me better understand the differences between supervised, unsupervised, and reinforcement learning.  
+I learned that it is important to choose the right type of machine learning based on the data and the goal of the  
+project. I also saw how the features you choose can affect accuracy, so comparing feature sets with cross-validation  
+is important. The model you choose matters too because some models may perform better than others depending on the  
+dataset being used for training.
