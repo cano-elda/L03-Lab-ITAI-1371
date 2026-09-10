@@ -15,3 +15,14 @@ I learned that it is important to choose the right type of machine learning base
 project. I also saw how the features you choose can affect accuracy, so comparing feature sets with cross-validation  
 is important. The model you choose matters too because some models may perform better than others depending on the  
 dataset being used for training.
+
+Michelle's Entry:
+In this lab for all the types of ML I think Reinforcement Learning caught my attention the most because the system learns along with the user
+and the feedback it gets keeps improving it over time, instead of just learning from data 
+it was given upfront (supervised and unsupervised learning).
+The most challenging part was figuring out which type of learning fits which issue.
+If I were to apply these concept for my field of interest I would say music I'm interested in music 
+Supervised Learning already powers music recommendation on platforms like Spotify or Apple Music, predicting songs 
+I'd like from labeled listening history, like Spotify or Apple Music. Unsupervised Learning could group songs by 
+sound or style without predefined genres. Reinforcement Learning could work for an AI composing music, 
+learning over time which melodies get better feedback.
