@@ -15,7 +15,7 @@ Learning and My Analysis of the Wine Classification Project.
 
 Michelle's Contribution:
 For this lab I contributed to part 9 on the education example. I picked personalized learning, 
-because it felt most relatable to me as a student. I figured it goes well with RFL, since the system adjusts 
+because it felt most relatable to me as a student. I figured it goes well with Reinforcement Learning, since the system adjusts 
 difficulty in real time based on if you get an answer right or wrong. This application could actually fit 
 Supervised or Unsupervised Learning too depending on how it's built. I wrote the problem statement and explained 
 how the process works, kind of like a reward and punishment system where the model keeps learning along with the student.
