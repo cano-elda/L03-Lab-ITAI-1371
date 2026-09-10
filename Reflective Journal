@@ -19,10 +19,11 @@ dataset being used for training.
 Michelle's Entry:
 In this lab for all the types of ML I think Reinforcement Learning caught my attention the most because the system learns along with the user
 and the feedback it gets keeps improving it over time, instead of just learning from data 
-it was given upfront (supervised and unsupervised learning).
+it was given upfront.
 The most challenging part was figuring out which type of learning fits which issue.
-If I were to apply these concept for my field of interest I would say music I'm interested in music 
-Supervised Learning already powers music recommendation on platforms like Spotify or Apple Music, predicting songs 
-I'd like from labeled listening history, like Spotify or Apple Music. Unsupervised Learning could group songs by 
-sound or style without predefined genres. Reinforcement Learning could work for an AI composing music, 
-learning over time which melodies get better feedback.
+If I were to apply these concept for my field of interest I would say music,
+Supervised Learning already works with music recommendation on platforms like Spotify or Apple Music, it helps predict songs 
+and Unsupervised Learning can group songs by sound or style without predefined genres. 
+Reinforcement Learning could work for an AI composing music, it would learn over time which melodies get better feedback.
+If I were to ask a question I wonder if supervised learning model that is trained using specific labeled examples how well it would handle 
+situations that are a lot different than what it was originally trained on. 
